@@ -1,0 +1,15 @@
+{
+    "name": "tonyanant/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "tonyanant\\phpmvc\\": "."
+        }
+    },
+    "authors": [
+        {
+            "name": "tonyanant",
+            "email": "antonis.ant2011@gmail.com"
+        }
+    ],
+    "require": {}
+}
